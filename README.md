@@ -1,3 +1,7 @@
+# React Redux
+
+Base sattings store for app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
